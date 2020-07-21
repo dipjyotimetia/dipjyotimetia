@@ -8,3 +8,5 @@ I'm a software engineer 👨‍💻 who is passionate about mobile technologies 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dipjyotimetia/) |
 [TechBlog](https://medium.com/@dipjyotimetia) 
 - ⚡ Languages: Java, Javascript, Python, Go....
+
+[![Dipjyoti's github stats](https://github-readme-stats.vercel.app/api?username=dipjyotimetia&show_icons=true&theme=onedark&hide=["issues"])](https://github.com/dipjyotimetia/github-readme-stats)
