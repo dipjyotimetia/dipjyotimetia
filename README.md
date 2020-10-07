@@ -19,5 +19,4 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
 - 💬 Ask me about techs, cloud, coding
 - ⚡ How to reach me: [LinkedIn](https://www.linkedin.com/in/dipjyotimetia/) |
 [TechBlog](https://medium.com/@dipjyotimetia) 
--  Languages: Java, JavaScript, Go
 
