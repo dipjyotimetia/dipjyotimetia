@@ -17,6 +17,6 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
   
-[![Dipjyoti's github stats](https://github-readme-stats.vercel.app/api?username=dipjyotimetia&show_icons=true&theme=synthwave&hide=["issues"])](https://github.com/dipjyotimetia/github-readme-stats)
+[![Dipjyoti's github stats](https://github-readme-stats.vercel.app/api?username=dipjyotimetia&show_icons=true&theme=tokyonight&hide=["issues"])](https://github.com/dipjyotimetia/github-readme-stats)
 
 
