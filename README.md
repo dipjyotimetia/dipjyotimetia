@@ -3,8 +3,9 @@
 I'm a software engineer 👨‍💻 who is passionate about cloud technologies and open source projects. I'm also a tech surfer 🏄‍ and I :heart: to contribute to open source community!
   
 ⚡ How to reach me: [LinkedIn](https://www.linkedin.com/in/dipjyotimetia/) |
-[TechBlog](https://medium.com/@dipjyotimetia) 
-  
+[Portfolio](https://dipjyotimetia.github.io/) |
+[TechBlog](https://medium.com/@dipjyotimetia)
+
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
