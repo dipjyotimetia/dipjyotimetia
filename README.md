@@ -24,9 +24,6 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
   <a href="https://www.typescriptlang.org/">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://www.oracle.com/java/technologies/">
     <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" style="vertical-align:top; margin:4px;">
   </a>
