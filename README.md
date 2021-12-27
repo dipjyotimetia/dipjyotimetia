@@ -33,6 +33,9 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
   <a href="https://reactjs.org/">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px;">
   </a>
+  <a href="https://graphql.org/">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" style="vertical-align:top; margin:4px;">
+  </a>
   <a href="https://kafka.apache.org/">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
   </a>
