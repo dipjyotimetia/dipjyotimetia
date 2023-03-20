@@ -63,4 +63,33 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
 </p>
 <br/>
 
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🧑‍💻 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🎟 Forks</b></td>
+      <td><b>🐛 Issues</b></td>
+      <td><b>📥 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/dipjyotimetia/HybridTestFramework"><b>HybridTestFramework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dipjyotimetia/HybridTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dipjyotimetia/HybridTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/dipjyotimetia/HybridTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dipjyotimetia/HybridTestFramework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/dipjyotimetia/Pizza-Shop"><b>CypressTestFramework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 [![Dipjyoti's github stats](https://github-readme-stats.vercel.app/api?username=dipjyotimetia&show_icons=true&theme=vue&hide=["issues"])](https://github.com/dipjyotimetia/github-readme-stats)
