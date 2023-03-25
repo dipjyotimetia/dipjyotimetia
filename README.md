@@ -82,13 +82,28 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
       <td><img alt="Issues" src="https://img.shields.io/github/issues/dipjyotimetia/HybridTestFramework?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dipjyotimetia/HybridTestFramework?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/dipjyotimetia/Pizza-Shop"><b>CypressTestFramework</b></a></td>
+    <tr>
+      <td><a href="https://github.com/dipjyotimetia/CypressTestFramework"><b>CypressTestFramework</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dipjyotimetia/CypressTestFramework?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/dipjyotimetia/PlaywrightTestFramework"><b>PlaywrightTestFramework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dipjyotimetia/PlaywrightTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dipjyotimetia/PlaywrightTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/dipjyotimetia/PlaywrightTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dipjyotimetia/PlaywrightTestFramework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dipjyotimetia/TestCafeTestFramework"><b>TestCafeTestFramework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dipjyotimetia/TestCafeTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dipjyotimetia/TestCafeTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/dipjyotimetia/TestCafeTestFramework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dipjyotimetia/TestCafeTestFramework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
   </tbody>
 </table>
 
