@@ -29,9 +29,6 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
   <a href="https://reactjs.org/">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://graphql.org/">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://kafka.apache.org/">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
   </a>
@@ -54,11 +51,6 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://istio.io">
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.envoyproxy.io">
-    <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
 </p>
 <br/>
 
@@ -113,4 +105,7 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
   </tbody>
 </table>
 
-[![Dipjyoti's github stats](https://github-readme-stats.vercel.app/api?username=dipjyotimetia&show_icons=true&theme=vue&hide=["issues"])](https://github.com/dipjyotimetia/github-readme-stats)
+<a href="https://github.com/dipjyotimetia/HybridTestFramework">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dipjyotimetia" />
+</a>
+
