@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm a software engineer 👨‍💻 who is passionate about cloud technologies and open source projects, love to develop and test distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, and Clean Architecture. I mainly develop using Golang and Java Microservices but would love to work with new languages and technologies.
+I'm a software engineer 👨‍💻 who is passionate about cloud technologies and open source projects, love to develop and test distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD, Event Sourcing, Generative AI and Clean Architecture. I mainly develop using Golang and Java Microservices but would love to work with new languages and technologies.
   
 ⚡ How to reach me:    
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipjyotimetia/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://dipjyotimetia.github.io/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@dipjyotimetia) 
