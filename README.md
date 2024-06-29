@@ -2,6 +2,17 @@
 
 ## About me
 I'm a software engineer 👨‍💻 who is passionate about cloud technologies and open source projects. I love working with open source projects and enjoy learning new technologies around  Microservices, DDD, Event Sourcing, Generative AI, and Clean Architecture. Primarily use Golang and Typescript for Microservices development, but always open to exploring new languages and tools.  
+  
+⚡ How to reach me:    
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipjyotimetia/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://dipjyotimetia.github.io/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@dipjyotimetia) 
+
+---
+<p align="center"> 
+ <strong>
+  Certifications
+  </strong>
+</p>
+
 <a href="https://www.credly.com/badges/e8199932-e843-45b4-b699-e788da1b9e3d/public_url" title="GitHub Actions">
   <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="90" height="90"/>
 </a>
@@ -14,10 +25,7 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
 <a href="https://www.credly.com/badges/e91d4b08-c17c-4af7-8dab-7a9da01a179a/public_url" title="Microsoft Certified: Azure Fundamentals">
   <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" height="90"/>
 </a>
-  
-⚡ How to reach me:    
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipjyotimetia/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://dipjyotimetia.github.io/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@dipjyotimetia) 
-  
+
 ---
 
 <p align="center"> 
@@ -35,9 +43,6 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="java" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://kafka.apache.org/">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
