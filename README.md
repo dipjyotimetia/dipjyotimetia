@@ -1,6 +1,5 @@
-# Welcome to my GitHub profile
+## Hi there 👋,
 
-## About me
 I'm a software engineer 👨‍💻 who is passionate about cloud technologies and open source projects. I love working with open source projects and enjoy learning new technologies around  Microservices, DDD, Event Sourcing, Generative AI, and Clean Architecture. Primarily use Golang and Typescript for Microservices development, but always open to exploring new languages and tools.  
   
 ⚡ How to reach me:    
