@@ -6,7 +6,12 @@ I specialize in Microservices Architecture, Event Sourcing, and Clean Architectu
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipjyotimetia/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://dipjyoti.dev/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@dipjyotimetia) 
 
 ---
-📜 Certifications
+<p align="center"> 
+ <strong>
+  📜 Certifications
+  </strong>
+</p>
+
 <p align="center">
 <a href="https://www.credly.com/badges/e8199932-e843-45b4-b699-e788da1b9e3d/public_url" title="GitHub Actions">
   <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="80" height="80"/>
@@ -28,7 +33,6 @@ I specialize in Microservices Architecture, Event Sourcing, and Clean Architectu
 </a>
 </p>
 
----
 
 <p align="center"> 
  <strong>
@@ -68,6 +72,8 @@ I specialize in Microservices Architecture, Event Sourcing, and Clean Architectu
 </p>
 <br/>
 
+---
+
 ## 🌟 Featured Projects
 
 | Project | Description | Stars | Forks |
@@ -78,8 +84,6 @@ I specialize in Microservices Architecture, Event Sourcing, and Clean Architectu
 | [**Jarvis**](https://github.com/dipjyotimetia/jarvis) | AI-powered development assistant | ![Stars](https://img.shields.io/github/stars/dipjyotimetia/jarvis?style=flat-square) | ![Forks](https://img.shields.io/github/forks/dipjyotimetia/jarvis?style=flat-square) |
 | [**ApiTestAutomation**](https://github.com/dipjyotimetia/ApiTestAutomation) | RESTful API testing automation suite | ![Stars](https://img.shields.io/github/stars/dipjyotimetia/ApiTestAutomation?style=flat-square) | ![Forks](https://img.shields.io/github/forks/dipjyotimetia/ApiTestAutomation?style=flat-square) |
 
-
-<a href="https://github.com/dipjyotimetia/HybridTestFramework">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dipjyotimetia" />
-</a>
+--- 
+<div align="center"> <i>⚡ "Building the future, one microservice at a time" ⚡</i> </div>
 
