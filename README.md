@@ -1,6 +1,6 @@
-## Hi there 👋,
-
-I'm a software engineer 👨‍💻 who is passionate about cloud technologies and open source projects. I love working with open source projects and enjoy learning new technologies around  Microservices, DDD, Event Sourcing, Generative AI, and Clean Architecture. Primarily use Golang and Typescript for Microservices development, but always open to exploring new languages and tools.  
+## Hi there, I'm Dipjyoti! 👋
+**Software Engineer** passionate about building scalable cloud-native solutions and contributing to open source.
+I specialize in Microservices Architecture, Event Sourcing, and Clean Architecture using primarily Golang, TypeScript and Python. Always exploring new technologies in the Generative AI space and cloud ecosystems.
   
 ⚡ How to reach me:    
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipjyotimetia/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://dipjyoti.dev/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@dipjyotimetia) 
