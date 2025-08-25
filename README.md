@@ -15,6 +15,9 @@ I'm a software engineer 👨‍💻 who is passionate about cloud technologies a
 <a href="https://www.credly.com/badges/e8199932-e843-45b4-b699-e788da1b9e3d/public_url" title="GitHub Actions">
   <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="90" height="90"/>
 </a>
+<a href="https://www.credly.com/badges/28e05913-f508-4c4e-94eb-90d7961b8fc7/public_url" title="Generative AI Leader Certification">
+  <img src="https://images.credly.com/size/680x680/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="90" height="90"/>
+</a>
 <a href="https://www.credly.com/badges/e84eaba6-ee87-42be-ab94-385674ffd558/public_url" title="Professional Cloud Architect Certification">
   <img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="90" height="90"/>
 </a>
