@@ -13,6 +13,9 @@ I specialize in Microservices Architecture, Event Sourcing, and Clean Architectu
 </p>
 
 <p align="center">
+<a href="https://www.credly.com/badges/a373ba3a-6e91-4a28-a9e4-cddd86e17b61/public_url" title="Generative AI"> 
+  <img src="https://images.credly.com/size/680x680/images/1aaeeb03-7866-4c1e-92f9-50304f0f33aa/image.png" width="80" height="80"/>  
+</a>  
 <a href="https://www.credly.com/badges/e8199932-e843-45b4-b699-e788da1b9e3d/public_url" title="GitHub Actions"> 
   <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="80" height="80"/>  
 </a>  
