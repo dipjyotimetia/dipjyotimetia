@@ -1,6 +1,6 @@
 ## Hi there, I'm Dipjyoti! 👋
-**Software Engineer** passionate about building scalable cloud-native solutions and contributing to open source.
-I specialize in Microservices Architecture, Event Sourcing, and Clean Architecture using primarily Golang, TypeScript and Python. Always exploring new technologies in the Generative AI space and cloud ecosystems.
+**Engineering Manager** passionate about building scalable cloud-native solutions and contributing to open source.
+I specialize in Microservices Architecture, Event Sourcing, and Clean Architecture using primarily Golang, TypeScript. Always exploring new technologies in the Agentic AI space and ai-native ecosystems.
   
 ⚡ How to reach me:    
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipjyotimetia/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://dipjyoti.dev/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@dipjyotimetia) 
@@ -77,15 +77,4 @@ I specialize in Microservices Architecture, Event Sourcing, and Clean Architectu
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Stars | Forks |
-|---------|-------------|-------|-------|
-| [**HybridTestFramework**](https://github.com/dipjyotimetia/HybridTestFramework) | Comprehensive web testing framework with Selenium & TestNG | ![Stars](https://img.shields.io/github/stars/dipjyotimetia/HybridTestFramework?style=flat-square) | ![Forks](https://img.shields.io/github/forks/dipjyotimetia/HybridTestFramework?style=flat-square) |
-| [**PlaywrightTestFramework**](https://github.com/dipjyotimetia/PlaywrightTestFramework) | Modern E2E testing framework using Playwright | ![Stars](https://img.shields.io/github/stars/dipjyotimetia/PlaywrightTestFramework?style=flat-square) | ![Forks](https://img.shields.io/github/forks/dipjyotimetia/PlaywrightTestFramework?style=flat-square) |
-| [**MobileTestFramework**](https://github.com/dipjyotimetia/MobileTestFramework) | Cross-platform mobile automation framework | ![Stars](https://img.shields.io/github/stars/dipjyotimetia/MobileTestFramework?style=flat-square) | ![Forks](https://img.shields.io/github/forks/dipjyotimetia/MobileTestFramework?style=flat-square) |
-| [**Jarvis**](https://github.com/dipjyotimetia/jarvis) | AI-powered development assistant | ![Stars](https://img.shields.io/github/stars/dipjyotimetia/jarvis?style=flat-square) | ![Forks](https://img.shields.io/github/forks/dipjyotimetia/jarvis?style=flat-square) |
-| [**ApiTestAutomation**](https://github.com/dipjyotimetia/ApiTestAutomation) | RESTful API testing automation suite | ![Stars](https://img.shields.io/github/stars/dipjyotimetia/ApiTestAutomation?style=flat-square) | ![Forks](https://img.shields.io/github/forks/dipjyotimetia/ApiTestAutomation?style=flat-square) |
-
---- 
 <div align="center"> <i>⚡ "Building the future, one microservice at a time" ⚡</i> </div>
