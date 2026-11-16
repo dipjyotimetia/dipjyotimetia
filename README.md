@@ -1,16 +1,35 @@
-## Hi there, I'm Dipjyoti! 👋
-**Engineering Manager** passionate about building scalable cloud-native solutions and contributing to open source.
-I specialize in Microservices Architecture, Event Sourcing, and Clean Architecture using primarily Golang, TypeScript. Always exploring new technologies in the Agentic AI space and ai-native ecosystems.
-  
-⚡ How to reach me:    
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipjyotimetia/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://dipjyoti.dev/) [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> ](https://medium.com/@dipjyotimetia) 
+### Hi, I'm Dipjyoti 👋
 
----
-<p align="center"> 
- <strong>
-  📜 Certifications
-  </strong>
-</p>
+**AI can write the code. I work on making it safe to ship.**
+
+I lead Enablement Engineering at ANZ in Melbourne, the platforms, test infrastructure and CI that banking teams ship through. Lately that means figuring out what changes when AI agents join the delivery path: evaluation, code review, sandboxing, and the points where a human still has to say yes.
+
+**What I work on**
+
+- 🤖 **AI agents in the SDLC**: coding agents in CI, agent evaluation and tracing, MCP tooling
+- 🛠️ **Developer platforms & enablement**: CI/CD, release engineering, golden paths, local-first dev tools
+- ☁️ **Cloud & event-driven systems**: GCP, AWS, Kafka, Pub/Sub, gRPC
+- 🧪 **Testing at scale**: end-to-end, API, mobile, contract and event testing frameworks
+
+**Featured projects**
+
+| Project | What it is |
+| --- | --- |
+| [**Restura**](https://github.com/dipjyotimetia/restura) | Local-first API client for HTTP, GraphQL, gRPC, WebSocket, Kafka, MQTT and MCP. Web, desktop and Docker. [restura.dev](https://restura.dev/) |
+| [**deep-agent-action**](https://github.com/dipjyotimetia/deep-agent-action) | Mention `@agent` on an issue or PR and get a plan, edits, a PR or an inline review, all running on your own Actions runner |
+| [**openapi-go-mcp**](https://github.com/dipjyotimetia/openapi-go-mcp) | Generate Go MCP servers from OpenAPI 3.x / Swagger 2.0 specs |
+| [**HybridTestFramework**](https://github.com/dipjyotimetia/HybridTestFramework) | End-to-end testing for web, API, cloud, events and security (Java) |
+| [**JARVIS**](https://github.com/dipjyotimetia/JARVIS) | AI-powered CLI for API test generation and traffic inspection |
+| [**pubsub-emulator**](https://github.com/dipjyotimetia/pubsub-emulator) | Local GCP Pub/Sub emulator with a web dashboard |
+
+**Recent writing**: more at [dipjyoti.dev/blog](https://dipjyoti.dev/blog/)
+
+- [Evaluating AI agents like software](https://dipjyoti.dev/blog/2026-06-12-evaluating-llm-agent-langfuse/)
+- [Containing AI agents at the OS level](https://dipjyoti.dev/blog/2026-06-16-mxc-agent-containment/)
+- [From OpenAPI to MCP with Go](https://dipjyoti.dev/blog/2026-05-20-openapi-go-mcp/)
+- [RAG is not vector search](https://dipjyoti.dev/blog/2025-07-07-vector-search-misconception/)
+
+**Certifications**: GCP Professional Cloud Architect · GCP Professional Cloud Developer · AWS Solutions Architect Associate · Google Generative AI Leader · GitHub Actions
 
 <p align="center">
 <a href="https://www.credly.com/badges/a373ba3a-6e91-4a28-a9e4-cddd86e17b61/public_url" title="Generative AI"> 
@@ -34,47 +53,6 @@ I specialize in Microservices Architecture, Event Sourcing, and Clean Architectu
 <a href="https://www.credly.com/badges/e91d4b08-c17c-4af7-8dab-7a9da01a179a/public_url" title="Azure Fundamentals">
   <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80" height="80"/>
 </a>  
-</p>  
-
-
-<p align="center"> 
- <strong>
-  Professional skills
-  </strong>
 </p>
 
-<p align="center">
-   <a href="https://go.dev/">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
-  </a>
-   <a href="https://www.python.org/">
-    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://kafka.apache.org/">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px;">
-  </a>
-   <a href="https://www.postgresql.org/">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://cloud.google.com/">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google" style="vertical-align:top; margin:4px">
-  </a>
-  </a>
-   <a href="https://aws.amazon.com/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://kubernetes.io">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-<br/>
-
----
-
-<div align="center"> <i>⚡ "Building the future, one microservice at a time" ⚡</i> </div>
+**Find me**: [dipjyoti.dev](https://dipjyoti.dev) · [LinkedIn](https://www.linkedin.com/in/dipjyotimetia/) · [X](https://x.com/dipjyoti_metia) · [Medium](https://medium.com/@dipjyotimetia) · [RSS](https://dipjyoti.dev/feed.xml)
